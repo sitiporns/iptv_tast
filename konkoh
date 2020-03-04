@@ -31,6 +31,20 @@ http://vvn.neoredi.com/iptv/ch1053?code=138137164006399&key=62639
 http://vvn.neoredi.com/iptv/ch937?code=138137164006399&key=57619
 #EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1991.png",Sky Sport NBA IT
 http://vvn.neoredi.com/iptv/ch1991?code=138137164006399&key=60458
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXnVYFi.png" group-title="THAILAND",Channel 3 (New!)
+https://1468481365.rsc.cdn77.org/LS-50041-SIN-19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5YozizR.png" group-title="THAILAND",Channel 5 (New!)
+http://1905117544.rsc.cdn77.org/LS-50041-SIN-20/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9LCSON9.png" group-title="THAILAND",Channel 7 (New!)
+http://1419021143.rsc.cdn77.org/LS-50041-SIN-21/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bYMtfRn.png" group-title="THAILAND",MCOT 30 (Opt-2)
+http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="THAILAND",Thai PBS (Opt-3)
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/955.png",SKY Sport 24 IT
+http://vvn.neoredi.com/iptv/ch955?code=135114454296143&key=24673
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1910.png",Sky Sport Football IT
+http://vvn.neoredi.com/iptv/ch1910?code=135114454296143&key=18976
 
 
 
