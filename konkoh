@@ -45,7 +45,10 @@ http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 http://vvn.neoredi.com/iptv/ch955?code=135114454296143&key=24673
 #EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1910.png",Sky Sport Football IT
 http://vvn.neoredi.com/iptv/ch1910?code=135114454296143&key=18976
-
+#EXTINF:-1,ture 4 you
+https://cdn702.stm.trueid.net/live2/207_th_w_auto_true4u.smil/chunklist_w239891929_b2787392.m3u8?appid=true4u&visitor=web&uid=68hwxg1bf&mpass=7ITGmR%2BdAd50%2B6lG%2FNXw09scXHiNvGC1tikrJeK9zbTQF5MApYlEwVU%2BzrvMz4Czy8YrgaODW91X5FEO1OJYZjo6kPzaaM%2F0aqQxg%2FlI6yu2Jg%3D%3D
+#EXTINF:-1,ture catoon
+https://cdn116.stm.trueid.net/live3/143_w_auto_tidapp.smil/chunklist_w1205551744_b750182_vo_sltha_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=d3d2d20809&mpass=uWK7ze9xjjXoFIyDB1oc2Boe%2Bgsd2YzIRM7lkI60E70P8by5%2BzGmuH4%2Bv4awQ1P6isvEJ4gWNthiulcBQGukM6gOBlcqHCbpFIs5%2FFm19LEq9yHHELGjWPZ%2Fzuu11ZlOOjoh%2Bw9oR%2BQQrjZGsXt%2Fn%2FF3
 
 
 
